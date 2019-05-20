@@ -1,10 +1,13 @@
 {
     "Records": [
         {
-            "keywords": "Tie Dye",
+            "keywords": "Tie Dye sneakers",
             "limit": 50,
-            // "color": "green",
-            // "size": "large",
+            "print_urls": true
+        },
+        {
+            "keywords": "converse chuck 70",
+            "limit": 50,
             "print_urls": true
         },
         {
