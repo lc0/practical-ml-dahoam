@@ -1,0 +1,26 @@
+{
+    "Records": [
+        {
+            "keywords": "Tie Dye",
+            "limit": 50,
+            // "color": "green",
+            // "size": "large",
+            "print_urls": true
+        },
+        {
+            "keywords": "Exaggerated Soles",
+            "limit": 50,
+            "print_urls": true
+        },
+        {
+            "keywords": "nike air max 90 essentials",
+            "limit": 50,
+            "print_urls": true
+        },
+        {
+            "keywords": "nike react",
+            "limit": 50,
+            "print_urls": true
+        }
+    ]
+}
