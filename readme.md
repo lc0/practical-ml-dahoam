@@ -11,3 +11,9 @@ You are going to learn about
 - How to run inference on multiple platforms
 
 [Original link](https://www.daho.am/)
+
+
+---
+> GitHub [@lc0](https://github.com/lc0) &nbsp;&middot;&nbsp;
+> Twitter [@lc0d3r](https://twitter.com/lc0d3r) &nbsp;&middot;&nbsp;
+> [Code and Gradients](https://codeand.gradients.ml/)
