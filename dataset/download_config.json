@@ -1,0 +1,29 @@
+{
+    "Records": [
+        {
+            "keywords": "Tie Dye sneakers",
+            "limit": 50,
+            "print_urls": true
+        },
+        {
+            "keywords": "converse chuck 70",
+            "limit": 50,
+            "print_urls": true
+        },
+        {
+            "keywords": "Exaggerated Soles",
+            "limit": 50,
+            "print_urls": true
+        },
+        {
+            "keywords": "nike air max 90 essentials",
+            "limit": 50,
+            "print_urls": true
+        },
+        {
+            "keywords": "nike react",
+            "limit": 50,
+            "print_urls": true
+        }
+    ]
+}

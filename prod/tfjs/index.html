@@ -1,0 +1,38 @@
+
+<html>
+<head>
+    <!-- Load the latest version of TensorFlow.js -->
+    <script src="https://unpkg.com/@tensorflow/tfjs"></script>
+    <script src="https://unpkg.com/@tensorflow-models/mobilenet"></script>
+    <script src="https://unpkg.com/@tensorflow-models/knn-classifier"></script>
+
+</head>
+<body>
+    <style>
+        .pred-container {
+            margin-bottom: 20px;
+        }
+        .pred-container > div {
+            display: inline-block;
+            margin-right: 20px;
+            vertical-align: top;
+        }
+        .row {
+            display: table-row;
+        }
+        .cell {
+            display: table-cell;
+            padding-right: 20px;
+        }
+        #file-container {
+            margin-bottom: 20px;
+        }
+        </style>
+    <img id="img" crossOrigin src="shoe.png" width=192 height=192/>
+    <div id="predictions"></div>
+
+
+    <!-- Load index.js after the content of the page -->
+    <script src="main.js"></script>
+</body>
+</html>
