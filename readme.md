@@ -15,11 +15,11 @@ You are going to learn about
 
 ### Agenda
 
-- 10 min - Neural Network intro
-- 10 min - Transfer Learning intro
-- 10 min - TF hub and application
-- 10 min - A bit of TFX and how to export model
-- 10 min - Running inference
+- Neural Network intro
+- Transfer Learning intro
+- Keras application and TFhub
+- A bit of TFX and how to export model
+- Running inference
 
 ---
 > GitHub [@lc0](https://github.com/lc0) &nbsp;&middot;&nbsp;
